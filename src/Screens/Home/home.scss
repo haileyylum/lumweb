@@ -1,0 +1,105 @@
+.site-desc {
+  text-align: right;
+  width: 50%;
+  margin-left: auto;
+  margin-right: 0;
+  font-size: 1.8em;
+}
+.profilepic {
+  margin-bottom: 4em;
+  margin-left: 11em;
+  position: relative;
+
+  & img {
+    height: 350px;
+    object-fit: cover;
+    width: 300px;
+  }
+}
+
+.ppbg {
+  width: 350px;
+  height: 350px;
+  background-color: #ffd7cd;
+  position: absolute;
+  z-index: -1;
+  left: 2%;
+  top: 12%;
+}
+
+.specializein {
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: 300;
+  margin: 4em 0;
+}
+
+.skillset {
+  p {
+    font-size: 2em;
+  }
+  ul {
+    font-size: 1.8em;
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    opacity: 0.1;
+    font-size: 1.3em;
+    font-weight: bold;
+  }
+}
+
+.right-align {
+  text-align: right;
+  width: 50%;
+  margin-left: auto;
+  margin-right: 0;
+
+  &.gallery-shot {
+    width: 80%;
+  }
+}
+
+.experience ul {
+  width: 50%;
+  list-style-type: none;
+  & li {
+    margin: 2em 0;
+  }
+}
+
+.maintitle {
+  font-size: 3em;
+}
+
+.random-shot {
+  li {
+    width: 23.5%;
+    display: inline-block;
+    margin: 1em 0.5em;
+
+    & img {
+      width: 100%;
+    }
+  }
+}
+
+.copyright {
+  text-align: center;
+}
+
+.layer {
+  margin-bottom: 5em;
+}
+
+.draggable {
+  height: 100px;
+  width: 100px;
+  background: blue;
+  border-radius: 10px;
+  margin: 50px;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
