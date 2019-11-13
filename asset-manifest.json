@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "wailumyoon.com/static/css/main.a3da1ad6.chunk.css",
-    "main.js": "wailumyoon.com/static/js/main.b9de3645.chunk.js",
-    "main.js.map": "wailumyoon.com/static/js/main.b9de3645.chunk.js.map",
-    "runtime-main.js": "wailumyoon.com/static/js/runtime-main.08bd5629.js",
-    "runtime-main.js.map": "wailumyoon.com/static/js/runtime-main.08bd5629.js.map",
-    "static/js/2.31d59d9a.chunk.js": "wailumyoon.com/static/js/2.31d59d9a.chunk.js",
-    "static/js/2.31d59d9a.chunk.js.map": "wailumyoon.com/static/js/2.31d59d9a.chunk.js.map",
-    "index.html": "wailumyoon.com/index.html",
-    "precache-manifest.9c3b89ca02540df5b87cc1c645c62edd.js": "wailumyoon.com/precache-manifest.9c3b89ca02540df5b87cc1c645c62edd.js",
-    "service-worker.js": "wailumyoon.com/service-worker.js",
-    "static/css/main.a3da1ad6.chunk.css.map": "wailumyoon.com/static/css/main.a3da1ad6.chunk.css.map",
-    "static/media/logo.svg": "wailumyoon.com/static/media/logo.25bf045c.svg",
-    "static/media/lumprofile.jpg": "wailumyoon.com/static/media/lumprofile.9bdcb40d.jpg"
+    "main.css": "/lumweb/static/css/main.a3da1ad6.chunk.css",
+    "main.js": "/lumweb/static/js/main.a3507354.chunk.js",
+    "main.js.map": "/lumweb/static/js/main.a3507354.chunk.js.map",
+    "runtime-main.js": "/lumweb/static/js/runtime-main.a78cbf51.js",
+    "runtime-main.js.map": "/lumweb/static/js/runtime-main.a78cbf51.js.map",
+    "static/js/2.31d59d9a.chunk.js": "/lumweb/static/js/2.31d59d9a.chunk.js",
+    "static/js/2.31d59d9a.chunk.js.map": "/lumweb/static/js/2.31d59d9a.chunk.js.map",
+    "index.html": "/lumweb/index.html",
+    "precache-manifest.305414272be6b7b37576e91eecdd573e.js": "/lumweb/precache-manifest.305414272be6b7b37576e91eecdd573e.js",
+    "service-worker.js": "/lumweb/service-worker.js",
+    "static/css/main.a3da1ad6.chunk.css.map": "/lumweb/static/css/main.a3da1ad6.chunk.css.map",
+    "static/media/logo.svg": "/lumweb/static/media/logo.25bf045c.svg",
+    "static/media/lumprofile.jpg": "/lumweb/static/media/lumprofile.9bdcb40d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08bd5629.js",
+    "static/js/runtime-main.a78cbf51.js",
     "static/js/2.31d59d9a.chunk.js",
     "static/css/main.a3da1ad6.chunk.css",
-    "static/js/main.b9de3645.chunk.js"
+    "static/js/main.a3507354.chunk.js"
   ]
 }
