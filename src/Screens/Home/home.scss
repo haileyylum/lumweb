@@ -103,3 +103,24 @@
   font-size: 20px;
   padding: 10px;
 }
+
+@media screen and (max-width: 780px) {
+  .App {
+    padding: 1em;
+  }
+
+  .ppbg {
+    z-index: -1;
+    left: 0;
+  }
+
+  .profilepic {
+    margin-left: 0;
+  }
+  .site-desc {
+    width: 80%;
+  }
+  .experience ul {
+    width: 80%;
+  }
+}
